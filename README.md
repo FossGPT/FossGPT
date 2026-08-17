@@ -1,17 +1,25 @@
 <h1 align="center">My Github Profile.</h1>
 
 <div align="center">
-  <i>Linux distro enthusiast and owner of a <br> ThinkPad T61 that’s long overdue for <br>retirement.</i>
-  <i></i>
-</div>
 
-### Technologies.
-#### Languages.
+### Tech Stack.
 ![Python](https://img.shields.io/badge/Python-Trainee-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Trainee-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-Trainee-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Trainee-1572B6?logo=css3&logoColor=white)
-#### Tools.
+
 ![Git](https://img.shields.io/badge/Git-Trainee-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Trainee-181717?logo=github&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Trainee-4EAA25?logo=gnubash&logoColor=white)
+
+</div>
+
+<div align="center">
+
+  ### About me.
+  <i>"Linux distro enthusiast and owner of a <br> ThinkPad T61 that’s long overdue for <br>retirement."</i>
+  <i>-w-</i>
+
+</div>
+
+## 
